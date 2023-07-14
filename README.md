@@ -13,6 +13,7 @@
 
 # Documentazione
 Possiamo consultare la documentazione nel seguente file
+[DocumentazioneT5-G30.pdf](https://github.com/alfodav/EnactestT5-G30/files/12053768/DocumentazioneT5-G30.pdf)
 
 # Video demo dell'App
 
